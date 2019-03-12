@@ -1,5 +1,5 @@
 function functionName(arg) {
-	let a = 1,
-			b,
-			c;
+  let a = 1,
+  b,
+  c
 }
